@@ -1,0 +1,2 @@
+# CollegeCompletionandEmploymentAnalysisClassProject
+The dataset from National Longitudinal Surveys of Youth 1997 (NLSY97) includes data related to demographics, academics, and employment of youth born in the years 1980-84 who were interviewed in 1997. The data allows us to analyze which type of students are more likely to complete college, and the impact the completion of college has on employment.
